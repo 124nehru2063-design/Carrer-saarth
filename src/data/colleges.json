@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "IIT Delhi",
+    "type": "Government",
+    "state": "Delhi",
+    "district": "Delhi",
+    "programs": ["B.Tech", "M.Tech"],
+    "fees": "Varies",
+    "facilities": ["Hostel", "Library", "Labs"],
+    "contact": { "phone": "+91-11-2659-XXXX", "email": "info@iitd.ac.in" },
+    "rating": 4.8,
+    "latitude": 28.545,
+    "longitude": 77.192
+  },
+  {
+    "id": 2,
+    "name": "AIIMS Delhi",
+    "type": "Government",
+    "state": "Delhi",
+    "district": "Delhi",
+    "programs": ["MBBS", "MD"],
+    "fees": "Varies",
+    "facilities": ["Hospital", "Research Labs"],
+    "contact": { "phone": "+91-11-2658-XXXX", "email": "contact@aiims.edu" },
+    "rating": 4.7,
+    "latitude": 28.567,
+    "longitude": 77.210
+  },
+  {
+    "id": 3,
+    "name": "IIT Bombay",
+    "type": "Government",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "programs": ["B.Tech", "M.Tech"],
+    "fees": "Varies",
+    "facilities": ["Hostel", "Sports Complex"],
+    "contact": { "phone": "+91-22-2572-XXXX", "email": "info@iitb.ac.in" },
+    "rating": 4.9,
+    "latitude": 19.1334,
+    "longitude": 72.9133
+  },
+  {
+    "id": 4,
+    "name": "College Pune",
+    "type": "Private",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "programs": ["BCom", "BSc"],
+    "fees": "₹50,000/year",
+    "facilities": ["Library", "Cafeteria"],
+    "contact": { "phone": "+91-20-XXXX-XXXX", "email": "admissions@collegepune.edu" },
+    "rating": 4.2,
+    "latitude": 18.5204,
+    "longitude": 73.8567
+  }
+]
